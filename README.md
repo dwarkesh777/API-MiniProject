@@ -1,6 +1,7 @@
 # 🌍 Weather Analytics Dashboard
 
 A real-time weather analytics web application built with **Streamlit** and the **OpenWeatherMap API**. Enter any location's coordinates to instantly view current weather conditions, air quality data, and a 5-day forecast — all with interactive charts and visualizations.
+link : https://api-miniproject-5cy7ews3hcyqtst9djekqs.streamlit.app/
 
 ---
 
