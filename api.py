@@ -84,7 +84,7 @@ lon = st.sidebar.number_input(
 )
 
 # ---------------- API KEY ----------------
-api_key = "e70a7528249e1c3633e76ba75a6897bd"
+api_key = st.secrets["OPENWEATHER_API_KEY"]
 
 # ---------------- BUTTON ----------------
 search = st.sidebar.button("🔍 Get Weather")
